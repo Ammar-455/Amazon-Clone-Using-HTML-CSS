@@ -20,10 +20,11 @@
 }
 
 .logo{
-    background-image: url("https://freelogopng.com/images/all_img/1688364329amazon-logo-png-white.png");
+    background-image: url("https://pngimg.com/d/amazon_PNG11.png");
     background-size: cover;
     height: 30px;
-    width: 100%;
+    width: 90px;
+    margin-top: 10px;
 }
 
 .border{
@@ -290,7 +291,7 @@ ul a {
 }
 
 .logo{
-    background-image: url("https://freelogopng.com/images/all_img/1688364329amazon-logo-png-white.png");
+    background-image: url("https://pngimg.com/d/amazon_PNG11.png");
     background-size: cover;
     height: 30px;
     width: 100px;
